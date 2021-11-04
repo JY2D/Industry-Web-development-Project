@@ -1,0 +1,202 @@
+,occupation_id,occupation,task_id,task,task_name,risk_id,risk_name,risk_category,risk_family
+0,OC001,Nurse Anesthetist,TC0001,Patient assessments,Patient assessments,FHR000001,Back problems,Not Available,Physical
+1,OC001,Nurse Anesthetist,TC0001,Patient assessments,Patient assessments,FHR000002,Headaches and migraines,Not Available,Physical
+2,OC001,Nurse Anesthetist,TC0001,Patient assessments,Patient assessments,FHR000003,Eye problems,Not Available,Physical
+3,OC001,Nurse Anesthetist,TC0002,Educating patients,Educating patients,FHR000002,Headaches and migraines,Not Available,Physical
+4,OC001,Nurse Anesthetist,TC0003,Preparing anesthetic,Preparing anesthetic,FHR000007,Stress and depression,Not Available,Psychological
+5,OC001,Nurse Anesthetist,TC0004,Administering medication,Administering medication,FHR000004,Repetitive strain injuries,Not Available,Physical
+6,OC001,Nurse Anesthetist,TC0004,Administering medication,Administering medication,FHR000007,Stress and depression,Not Available,Psychological
+7,OC001,Nurse Anesthetist,TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000002,Headaches and migraines,Not Available,Physical
+8,OC001,Nurse Anesthetist,TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000004,Repetitive strain injuries,Not Available,Physical
+9,OC001,Nurse Anesthetist,TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000019,Knee pain,Not Available,Physical
+10,OC001,Nurse Anesthetist,TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000021,Tiredness,Not Available,Physical
+11,OC001,Nurse Anesthetist,TC0006,Overseeing the patient’s safety as they recover from anesthesia,Overseeing the patient’s safety as they recover from anesthesia,FHR000007,Stress and depression,Not Available,Psychological
+12,OC001,Nurse Anesthetist,TC0006,Overseeing the patient’s safety as they recover from anesthesia,Overseeing the patient’s safety as they recover from anesthesia,FHR000021,Tiredness,Not Available,Physical
+13,OC001,Nurse Anesthetist,TC0006,Overseeing the patient’s safety as they recover from anesthesia,Overseeing the patient’s safety as they recover from anesthesia,FHR000016,Communicable diseases,Not Available,Physical
+14,OC001,Nurse Anesthetist,TC0006,Overseeing the patient’s safety as they recover from anesthesia,Overseeing the patient’s safety as they recover from anesthesia,FHR000004,Repetitive strain injuries,Not Available,Physical
+15,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000001,Back problems,Not Available,Physical
+16,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000002,Headaches and migraines,Not Available,Physical
+17,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000003,Eye problems,Not Available,Physical
+18,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000004,Repetitive strain injuries,Not Available,Physical
+19,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000005,Obesity,Not Available,Physical
+20,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000006,Circulation problems,Not Available,Physical
+21,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000007,Stress and depression,Not Available,Psychological
+22,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000008,Sleep problems,Not Available,Psychological
+23,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000018,Neck pain,Not Available,Physical
+24,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000010,Diabetes,Not Available,Physical
+25,OC001,Nurse Anesthetist,TC0007,Computer use,Computer use,FHR000011,High cholesterol,Not Available,Physical
+26,OC002,Brick Layer,TC0008,Driving,Driving,FHR000001,Back problems,Not Available,Physical
+27,OC002,Brick Layer,TC0008,Driving,Driving,FHR000009,Fatigued Driving,Not Available,Physical
+28,OC002,Brick Layer,TC0008,Driving,Driving,FHR000005,Obesity,Not Available,Physical
+29,OC002,Brick Layer,TC0008,Driving,Driving,FHR000008,Sleep problems,Not Available,Psychological
+30,OC002,Brick Layer,TC0008,Driving,Driving,FHR000011,High cholesterol,Not Available,Physical
+31,OC002,Brick Layer,TC0008,Driving,Driving,FHR000012,High triglycerides,Not Available,Physical
+32,OC002,Brick Layer,TC0008,Driving,Driving,FHR000013,Chest wheezy or whistly,Not Available,Physical
+33,OC002,Brick Layer,TC0008,Driving,Driving,FHR000014,Angina,Not Available,Physical
+34,OC002,Brick Layer,TC0008,Driving,Driving,FHR000020,Clogged arteries,Not Available,Physical
+35,OC002,Brick Layer,TC0009,Laying bricks,Laying bricks,FHR000001,Back problems,Not Available,Physical
+36,OC002,Brick Layer,TC0009,Laying bricks,Laying bricks,FHR000024,Physical Injury,,
+37,OC002,Brick Layer,TC0009,Laying bricks,Laying bricks,FHR000018,Neck pain,Not Available,Physical
+38,OC002,Brick Layer,TC0009,Laying bricks,Laying bricks,FHR000019,Knee pain,Not Available,Physical
+39,OC002,Brick Layer,TC0009,Laying bricks,Laying bricks,FHR000001,Back problems,Not Available,Physical
+40,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000024,Physical Injury,,
+41,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000023,Ear damage,Not Available,Physical
+42,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000002,Headaches and migraines,Not Available,Physical
+43,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000018,Neck pain,Not Available,Physical
+44,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000019,Knee pain,Not Available,Physical
+45,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000001,Back problems,Not Available,Physical
+46,OC002,Brick Layer,TC0010,Using Powertools,Using Powertools,FHR000003,Eye problems,Not Available,Physical
+47,OC002,Brick Layer,TC0011,Carrying Objects,Carrying Objects,FHR000001,Back problems,Not Available,Physical
+48,OC002,Brick Layer,TC0011,Carrying Objects,Carrying Objects,FHR000018,Neck pain,Not Available,Physical
+49,OC002,Brick Layer,TC0011,Carrying Objects,Carrying Objects,FHR000019,Knee pain,Not Available,Physical
+50,OC002,Brick Layer,TC0011,Carrying Objects,Carrying Objects,FHR000022,Hernia,Not Available,Physical
+51,OC002,Brick Layer,TC0012,Site inspections,Site inspections,FHR000023,Ear damage,Not Available,Physical
+52,OC002,Brick Layer,TC0012,Site inspections,Site inspections,FHR000016,Communicable diseases,Not Available,Physical
+53,OC002,Brick Layer,TC0012,Site inspections,Site inspections,FHR000019,Knee pain,Not Available,Physical
+54,OC002,Brick Layer,TC0012,Site inspections,Site inspections,FHR000024,Physical Injury,,
+55,OC002,Brick Layer,TC0012,Site inspections,Site inspections,FHR000005,Obesity,Not Available,Physical
+56,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000001,Back problems,Not Available,Physical
+57,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000002,Headaches and migraines,Not Available,Physical
+58,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000003,Eye problems,Not Available,Physical
+59,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000004,Repetitive strain injuries,Not Available,Physical
+60,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000005,Obesity,Not Available,Physical
+61,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000006,Circulation problems,Not Available,Physical
+62,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000007,Stress and depression,Not Available,Psychological
+63,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000008,Sleep problems,Not Available,Psychological
+64,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000018,Neck pain,Not Available,Physical
+65,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000010,Diabetes,Not Available,Physical
+66,OC002,Brick Layer,TC0007,Computer use,Computer use,FHR000011,High cholesterol,Not Available,Physical
+67,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000001,Back problems,Not Available,Physical
+68,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000002,Headaches and migraines,Not Available,Physical
+69,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000003,Eye problems,Not Available,Physical
+70,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000004,Repetitive strain injuries,Not Available,Physical
+71,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000005,Obesity,Not Available,Physical
+72,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000006,Circulation problems,Not Available,Physical
+73,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000007,Stress and depression,Not Available,Psychological
+74,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000008,Sleep problems,Not Available,Psychological
+75,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000018,Neck pain,Not Available,Physical
+76,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000010,Diabetes,Not Available,Physical
+77,OC003,Graphics Designer,TC0007,Computer use,Computer use,FHR000011,High cholesterol,Not Available,Physical
+78,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000018,Neck pain,Not Available,Physical
+79,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000001,Back problems,Not Available,Physical
+80,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000002,Headaches and migraines,Not Available,Physical
+81,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000003,Eye problems,Not Available,Physical
+82,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000004,Repetitive strain injuries,Not Available,Physical
+83,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000005,Obesity,Not Available,Physical
+84,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000006,Circulation problems,Not Available,Physical
+85,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000007,Stress and depression,Not Available,Psychological
+86,OC003,Graphics Designer,TC0013,AutoCAD,AutoCAD,FHR000008,Sleep problems,Not Available,Psychological
+87,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000018,Neck pain,Not Available,Physical
+88,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000001,Back problems,Not Available,Physical
+89,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000002,Headaches and migraines,Not Available,Physical
+90,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000003,Eye problems,Not Available,Physical
+91,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000004,Repetitive strain injuries,Not Available,Physical
+92,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000005,Obesity,Not Available,Physical
+93,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000006,Circulation problems,Not Available,Physical
+94,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000007,Stress and depression,Not Available,Psychological
+95,OC003,Graphics Designer,TC0014,Figma,Figma,FHR000008,Sleep problems,Not Available,Psychological
+96,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000018,Neck pain,Not Available,Physical
+97,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000001,Back problems,Not Available,Physical
+98,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000002,Headaches and migraines,Not Available,Physical
+99,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000003,Eye problems,Not Available,Physical
+100,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000004,Repetitive strain injuries,Not Available,Physical
+101,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000005,Obesity,Not Available,Physical
+102,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000006,Circulation problems,Not Available,Physical
+103,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000007,Stress and depression,Not Available,Psychological
+104,OC003,Graphics Designer,TC0015,Tableau,Tableau,FHR000008,Sleep problems,Not Available,Psychological
+105,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000018,Neck pain,Not Available,Physical
+106,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000001,Back problems,Not Available,Physical
+107,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000002,Headaches and migraines,Not Available,Physical
+108,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000003,Eye problems,Not Available,Physical
+109,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000004,Repetitive strain injuries,Not Available,Physical
+110,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000005,Obesity,Not Available,Physical
+111,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000006,Circulation problems,Not Available,Physical
+112,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000007,Stress and depression,Not Available,Psychological
+113,OC003,Graphics Designer,TC0016,PowerBI,PowerBI,FHR000008,Sleep problems,Not Available,Psychological
+114,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000001,Back problems,Not Available,Physical
+115,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000002,Headaches and migraines,Not Available,Physical
+116,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000005,Obesity,Not Available,Physical
+117,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000006,Circulation problems,Not Available,Physical
+118,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000007,Stress and depression,Not Available,Psychological
+119,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000008,Sleep problems,Not Available,Psychological
+120,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000011,High cholesterol,Not Available,Physical
+121,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000012,High triglycerides,Not Available,Physical
+122,OC003,Graphics Designer,TC0017,Meetings,Meetings,FHR000013,Chest wheezy or whistly,Not Available,Physical
+123,OC004,Police Officer,TC0018,Interogation,Interogation,FHR000016,Communicable diseases,Not Available,Physical
+124,OC004,Police Officer,TC0018,Interogation,Interogation,FHR000007,Stress and depression,Not Available,Psychological
+125,OC004,Police Officer,TC0018,Interogation,Interogation,FHR000008,Sleep problems,Not Available,Psychological
+126,OC004,Police Officer,TC0018,Interogation,Interogation,FHR000015,Mood disorders,Not Available,Psychological
+127,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000001,Back problems,Not Available,Physical
+128,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000002,Headaches and migraines,Not Available,Physical
+129,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000003,Eye problems,Not Available,Physical
+130,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000004,Repetitive strain injuries,Not Available,Physical
+131,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000005,Obesity,Not Available,Physical
+132,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000006,Circulation problems,Not Available,Physical
+133,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000007,Stress and depression,Not Available,Psychological
+134,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000008,Sleep problems,Not Available,Psychological
+135,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000018,Neck pain,Not Available,Physical
+136,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000010,Diabetes,Not Available,Physical
+137,OC004,Police Officer,TC0007,Computer use,Computer use,FHR000011,High cholesterol,Not Available,Physical
+138,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000018,Neck pain,Not Available,Physical
+139,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000001,Back problems,Not Available,Physical
+140,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000002,Headaches and migraines,Not Available,Physical
+141,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000003,Eye problems,Not Available,Physical
+142,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000004,Repetitive strain injuries,Not Available,Physical
+143,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000005,Obesity,Not Available,Physical
+144,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000006,Circulation problems,Not Available,Physical
+145,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000007,Stress and depression,Not Available,Psychological
+146,OC004,Police Officer,TC0019,Microsoft 365,Microsoft 365,FHR000008,Sleep problems,Not Available,Psychological
+147,OC004,Police Officer,TC0008,Driving,Driving,FHR000001,Back problems,Not Available,Physical
+148,OC004,Police Officer,TC0008,Driving,Driving,FHR000009,Fatigued Driving,Not Available,Physical
+149,OC004,Police Officer,TC0008,Driving,Driving,FHR000005,Obesity,Not Available,Physical
+150,OC004,Police Officer,TC0008,Driving,Driving,FHR000008,Sleep problems,Not Available,Psychological
+151,OC004,Police Officer,TC0008,Driving,Driving,FHR000011,High cholesterol,Not Available,Physical
+152,OC004,Police Officer,TC0008,Driving,Driving,FHR000012,High triglycerides,Not Available,Physical
+153,OC004,Police Officer,TC0008,Driving,Driving,FHR000013,Chest wheezy or whistly,Not Available,Physical
+154,OC004,Police Officer,TC0008,Driving,Driving,FHR000014,Angina,Not Available,Physical
+155,OC004,Police Officer,TC0008,Driving,Driving,FHR000020,Clogged arteries,Not Available,Physical
+156,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000001,Back problems,Not Available,Physical
+157,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000002,Headaches and migraines,Not Available,Physical
+158,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000005,Obesity,Not Available,Physical
+159,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000006,Circulation problems,Not Available,Physical
+160,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000007,Stress and depression,Not Available,Psychological
+161,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000008,Sleep problems,Not Available,Psychological
+162,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000011,High cholesterol,Not Available,Physical
+163,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000012,High triglycerides,Not Available,Physical
+164,OC004,Police Officer,TC0017,Meetings,Meetings,FHR000013,Chest wheezy or whistly,Not Available,Physical
+165,OC004,Police Officer,TC0020,Running,Running,FHR000024,Physical Injury,,
+166,OC004,Police Officer,TC0020,Running,Running,FHR000019,Knee pain,Not Available,Physical
+167,OC004,Police Officer,TC0020,Running,Running,FHR000016,Communicable diseases,Not Available,Physical
+168,OC004,Police Officer,TC0021,Mechanical checks,Mechanical checks,FHR000025,Death,Not Available,Physical
+169,OC005,Truck Driver,TC0008,Driving,Driving,FHR000001,Back problems,Not Available,Physical
+170,OC005,Truck Driver,TC0008,Driving,Driving,FHR000009,Fatigued Driving,Not Available,Physical
+171,OC005,Truck Driver,TC0008,Driving,Driving,FHR000005,Obesity,Not Available,Physical
+172,OC005,Truck Driver,TC0008,Driving,Driving,FHR000008,Sleep problems,Not Available,Psychological
+173,OC005,Truck Driver,TC0008,Driving,Driving,FHR000011,High cholesterol,Not Available,Physical
+174,OC005,Truck Driver,TC0008,Driving,Driving,FHR000012,High triglycerides,Not Available,Physical
+175,OC005,Truck Driver,TC0008,Driving,Driving,FHR000013,Chest wheezy or whistly,Not Available,Physical
+176,OC005,Truck Driver,TC0008,Driving,Driving,FHR000014,Angina,Not Available,Physical
+177,OC005,Truck Driver,TC0008,Driving,Driving,FHR000020,Clogged arteries,Not Available,Physical
+178,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000001,Back problems,Not Available,Physical
+179,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000007,Stress and depression,Not Available,Psychological
+180,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000018,Neck pain,Not Available,Physical
+181,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000019,Knee pain,Not Available,Physical
+182,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000022,Hernia,Not Available,Physical
+183,OC005,Truck Driver,TC0022,Quality check of vehicle,Quality check of vehicle,FHR000024,Physical Injury,,
+184,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000001,Back problems,Not Available,Physical
+185,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000002,Headaches and migraines,Not Available,Physical
+186,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000003,Eye problems,Not Available,Physical
+187,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000004,Repetitive strain injuries,Not Available,Physical
+188,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000005,Obesity,Not Available,Physical
+189,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000006,Circulation problems,Not Available,Physical
+190,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000007,Stress and depression,Not Available,Psychological
+191,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000008,Sleep problems,Not Available,Psychological
+192,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000018,Neck pain,Not Available,Physical
+193,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000010,Diabetes,Not Available,Physical
+194,OC005,Truck Driver,TC0007,Computer use,Computer use,FHR000011,High cholesterol,Not Available,Physical
+195,OC005,Truck Driver,TC0023,Securing load,Securing load,FHR000024,Physical Injury,,
+196,OC005,Truck Driver,TC0023,Securing load,Securing load,FHR000019,Knee pain,Not Available,Physical
+197,OC005,Truck Driver,TC0023,Securing load,Securing load,FHR000001,Back problems,Not Available,Physical
+198,OC005,Truck Driver,TC0024,Goods chekcs,Goods chekcs,FHR000024,Physical Injury,,
+199,OC005,Truck Driver,TC0025,Document verification,Document verification,FHR000003,Eye problems,Not Available,Physical
+200,OC005,Truck Driver,TC0025,Document verification,Document verification,FHR000007,Stress and depression,Not Available,Psychological

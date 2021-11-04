@@ -1,0 +1,52 @@
+.formContainer{
+  display:block ;
+  margin: 0 auto;
+  width: 30%; 
+  text-align: center;
+}
+
+.introduction{
+  text-align: center;
+  color: #092e3b
+}
+
+h1 {
+  font-family: 'FoundrySterling-Bold',sans-serif;
+}
+
+
+label {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  color: #092e3b
+
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 7px;
+  height: 30px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+button {
+  background: rgba(0,181,172,1.0);
+  border: 1px solid rgba(0,181,172,1.0);
+  border-radius: 6px;
+  font-size: 18px;
+  padding: 8px 16px;
+  margin-top: 10px;
+}
+
+p {
+  color: red;
+  font-size: 14px;
+  margin: 4px 0 20px 0;
+}
+
+/* .dailytask {
+  margin-bottom: 10px;
+} */

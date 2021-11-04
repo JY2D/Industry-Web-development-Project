@@ -1,0 +1,33 @@
+﻿occupation_id,occupation,task_id,task
+OC001,Nurse Anesthetist,TC0001,Patient assessments
+OC001,Nurse Anesthetist,TC0002,Educating patients
+OC001,Nurse Anesthetist,TC0003,Preparing anesthetic
+OC001,Nurse Anesthetist,TC0004,Administering medication
+OC001,Nurse Anesthetist,TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery
+OC001,Nurse Anesthetist,TC0006,Overseeing the patient’s safety as they recover from anesthesia
+OC001,Nurse Anesthetist,TC0007,Computer use
+OC002,Brick Layer,TC0008,Driving
+OC002,Brick Layer,TC0009,Laying bricks
+OC002,Brick Layer,TC0010,Using Powertools
+OC002,Brick Layer,TC0011,Carrying Objects
+OC002,Brick Layer,TC0012,Site inspections
+OC002,Brick Layer,TC0007,Computer use
+OC003,Graphics Designer,TC0007,Computer use
+OC003,Graphics Designer,TC0013,AutoCAD
+OC003,Graphics Designer,TC0014,Figma
+OC003,Graphics Designer,TC0015,Tableau
+OC003,Graphics Designer,TC0016,PowerBI
+OC003,Graphics Designer,TC0017,Meetings
+OC004,Police Officer,TC0018,Interogation
+OC004,Police Officer,TC0007,Computer use
+OC004,Police Officer,TC0019,Microsoft 365
+OC004,Police Officer,TC0008,Driving
+OC004,Police Officer,TC0017,Meetings
+OC004,Police Officer,TC0020,Running
+OC004,Police Officer,TC0021,Mechanical checks
+OC005,Truck Driver,TC0008,Driving
+OC005,Truck Driver,TC0022,Quality check of vehicle
+OC005,Truck Driver,TC0007,Computer use
+OC005,Truck Driver,TC0023,Securing load
+OC005,Truck Driver,TC0024,Goods chekcs
+OC005,Truck Driver,TC0025,Document verification

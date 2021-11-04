@@ -1,0 +1,24 @@
+﻿risk_id,risk_name,risk_category,risk_family
+FHR000001,Back problems,Not Available,Physical
+FHR000002,Headaches and migraines,Not Available,Physical
+FHR000003,Eye problems,Not Available,Physical
+FHR000004,Repetitive strain injuries,Not Available,Physical
+FHR000005,Obesity,Not Available,Physical
+FHR000006,Circulation problems,Not Available,Physical
+FHR000007,Stress and depression,Not Available,Psychological
+FHR000008,Sleep problems,Not Available,Psychological
+FHR000009,Fatigued Driving,Not Available,Physical
+FHR000010,Diabetes,Not Available,Physical
+FHR000011,High cholesterol,Not Available,Physical
+FHR000012,High triglycerides,Not Available,Physical
+FHR000013,Chest wheezy or whistly,Not Available,Physical
+FHR000014,Angina,Not Available,Physical
+FHR000015,Mood disorders,Not Available,Psychological
+FHR000016,Communicable diseases,Not Available,Physical
+FHR000017,Stroke,Not Available,Physical
+FHR000018,Neck pain,Not Available,Physical
+FHR000019,Knee pain,Not Available,Physical
+FHR000020,Clogged arteries,Not Available,Physical
+FHR000021,Tiredness,Not Available,Physical
+FHR000022,Hernia,Not Available,Physical
+FHR000023,Ear damage,Not Available,Physical

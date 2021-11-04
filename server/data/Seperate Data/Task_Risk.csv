@@ -1,0 +1,130 @@
+﻿task_id,task_name,risk_id,risk_name
+TC0001,Patient assessments,FHR000001,Back problems
+TC0001,Patient assessments,FHR000002,Headaches and migraines
+TC0001,Patient assessments,FHR000003,Eye problems
+TC0002,Educating patients,FHR000002,Headaches and migraines
+TC0003,Preparing anesthetic,FHR000007,Stress and depression
+TC0004,Administering medication,FHR000004,Repetitive strain injuries
+TC0004,Administering medication,FHR000007,Stress and depression
+TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000002,Headaches and migraines
+TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000004,Repetitive strain injuries
+TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000019,Knee pain
+TC0005,Monitoring a patient’s vitals and adjusting anesthesia levels during surgery,FHR000021,Tiredness
+TC0006,Overseeing the patient’s safety as they recover from anesthesia,FHR000007,Stress and depression
+TC0006,Overseeing the patient’s safety as they recover from anesthesia,FHR000021,Tiredness
+TC0006,Overseeing the patient’s safety as they recover from anesthesia,FHR000016,Communicable diseases
+TC0006,Overseeing the patient’s safety as they recover from anesthesia,FHR000004,Repetitive strain injuries
+TC0007,Computer use,FHR000001,Back problems
+TC0007,Computer use,FHR000002,Headaches and migraines
+TC0007,Computer use,FHR000003,Eye problems
+TC0007,Computer use,FHR000004,Repetitive strain injuries
+TC0007,Computer use,FHR000005,Obesity
+TC0007,Computer use,FHR000006,Circulation problems
+TC0007,Computer use,FHR000007,Stress and depression
+TC0007,Computer use,FHR000008,Sleep problems
+TC0007,Computer use,FHR000018,Neck pain
+TC0007,Computer use,FHR000010,Diabetes
+TC0007,Computer use,FHR000011,High cholesterol
+TC0008,Driving,FHR000001,Back problems
+TC0008,Driving,FHR000009,Fatigued Driving
+TC0008,Driving,FHR000005,Obesity
+TC0008,Driving,FHR000008,Sleep problems
+TC0008,Driving,FHR000011,High cholesterol
+TC0008,Driving,FHR000012,High triglycerides
+TC0008,Driving,FHR000013,Chest wheezy or whistly
+TC0008,Driving,FHR000014,Angina
+TC0008,Driving,FHR000020,Clogged arteries
+TC0009,Laying bricks,FHR000001,Back problems
+TC0009,Laying bricks,FHR000024,Physical Injury
+TC0009,Laying bricks,FHR000018,Neck pain
+TC0009,Laying bricks,FHR000019,Knee pain
+TC0009,Laying bricks,FHR000001,Back problems
+TC0010,Using Powertools,FHR000024,Physical Injury
+TC0010,Using Powertools,FHR000023,Ear damage
+TC0010,Using Powertools,FHR000002,Headaches and migraines
+TC0010,Using Powertools,FHR000018,Neck pain
+TC0010,Using Powertools,FHR000019,Knee pain
+TC0010,Using Powertools,FHR000001,Back problems
+TC0010,Using Powertools,FHR000003,Eye problems
+TC0011,Carrying Objects,FHR000001,Back problems
+TC0011,Carrying Objects,FHR000018,Neck pain
+TC0011,Carrying Objects,FHR000019,Knee pain
+TC0011,Carrying Objects,FHR000022,Hernia
+TC0012,Site inspections,FHR000023,Ear damage
+TC0012,Site inspections,FHR000016,Communicable diseases
+TC0012,Site inspections,FHR000019,Knee pain
+TC0012,Site inspections,FHR000024,Physical Injury
+TC0012,Site inspections,FHR000005,Obesity
+TC0013,AutoCAD,FHR000018,Neck pain
+TC0013,AutoCAD,FHR000001,Back problems
+TC0013,AutoCAD,FHR000002,Headaches and migraines
+TC0013,AutoCAD,FHR000003,Eye problems
+TC0013,AutoCAD,FHR000004,Repetitive strain injuries
+TC0013,AutoCAD,FHR000005,Obesity
+TC0013,AutoCAD,FHR000006,Circulation problems
+TC0013,AutoCAD,FHR000007,Stress and depression
+TC0013,AutoCAD,FHR000008,Sleep problems
+TC0014,Figma,FHR000018,Neck pain
+TC0014,Figma,FHR000001,Back problems
+TC0014,Figma,FHR000002,Headaches and migraines
+TC0014,Figma,FHR000003,Eye problems
+TC0014,Figma,FHR000004,Repetitive strain injuries
+TC0014,Figma,FHR000005,Obesity
+TC0014,Figma,FHR000006,Circulation problems
+TC0014,Figma,FHR000007,Stress and depression
+TC0014,Figma,FHR000008,Sleep problems
+TC0015,Tableau,FHR000018,Neck pain
+TC0015,Tableau,FHR000001,Back problems
+TC0015,Tableau,FHR000002,Headaches and migraines
+TC0015,Tableau,FHR000003,Eye problems
+TC0015,Tableau,FHR000004,Repetitive strain injuries
+TC0015,Tableau,FHR000005,Obesity
+TC0015,Tableau,FHR000006,Circulation problems
+TC0015,Tableau,FHR000007,Stress and depression
+TC0015,Tableau,FHR000008,Sleep problems
+TC0016,PowerBI,FHR000018,Neck pain
+TC0016,PowerBI,FHR000001,Back problems
+TC0016,PowerBI,FHR000002,Headaches and migraines
+TC0016,PowerBI,FHR000003,Eye problems
+TC0016,PowerBI,FHR000004,Repetitive strain injuries
+TC0016,PowerBI,FHR000005,Obesity
+TC0016,PowerBI,FHR000006,Circulation problems
+TC0016,PowerBI,FHR000007,Stress and depression
+TC0016,PowerBI,FHR000008,Sleep problems
+TC0017,Meetings,FHR000001,Back problems
+TC0017,Meetings,FHR000002,Headaches and migraines
+TC0017,Meetings,FHR000005,Obesity
+TC0017,Meetings,FHR000006,Circulation problems
+TC0017,Meetings,FHR000007,Stress and depression
+TC0017,Meetings,FHR000008,Sleep problems
+TC0017,Meetings,FHR000011,High cholesterol
+TC0017,Meetings,FHR000012,High triglycerides
+TC0017,Meetings,FHR000013,Chest wheezy or whistly
+TC0018,Interogation,FHR000016,Communicable diseases
+TC0018,Interogation,FHR000007,Stress and depression
+TC0018,Interogation,FHR000008,Sleep problems
+TC0018,Interogation,FHR000015,Mood disorders
+TC0019,Microsoft 365,FHR000018,Neck pain
+TC0019,Microsoft 365,FHR000001,Back problems
+TC0019,Microsoft 365,FHR000002,Headaches and migraines
+TC0019,Microsoft 365,FHR000003,Eye problems
+TC0019,Microsoft 365,FHR000004,Repetitive strain injuries
+TC0019,Microsoft 365,FHR000005,Obesity
+TC0019,Microsoft 365,FHR000006,Circulation problems
+TC0019,Microsoft 365,FHR000007,Stress and depression
+TC0019,Microsoft 365,FHR000008,Sleep problems
+TC0020,Running,FHR000024,Physical Injury
+TC0020,Running,FHR000019,Knee pain
+TC0020,Running,FHR000016,Communicable diseases
+TC0022,Quality check of vehicle,FHR000001,Back problems
+TC0022,Quality check of vehicle,FHR000007,Stress and depression
+TC0022,Quality check of vehicle,FHR000018,Neck pain
+TC0022,Quality check of vehicle,FHR000019,Knee pain
+TC0022,Quality check of vehicle,FHR000022,Hernia
+TC0022,Quality check of vehicle,FHR000024,Physical Injury
+TC0023,Securing load,FHR000024,Physical Injury
+TC0023,Securing load,FHR000019,Knee pain
+TC0023,Securing load,FHR000001,Back problems
+TC0024,Goods chekcs,FHR000024,Physical Injury
+TC0025,Document verification,FHR000003,Eye problems
+TC0025,Document verification,FHR000007,Stress and depression

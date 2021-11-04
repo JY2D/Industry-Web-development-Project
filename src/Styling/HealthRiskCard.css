@@ -1,0 +1,17 @@
+.riskContainer{
+  display: inline-grid;
+  justify-self: center;
+  text-align: center;
+  border: 2px solid  #3a5862;;
+  width: 25%;
+  padding: 40px;
+  margin: 40px 10px 20px 50px;
+  border-radius: 20px;
+}
+
+.riskContainer:hover {
+  background-color: #3a5862;
+  color: black;
+  font-weight: 500;
+  box-shadow: 10px 10px 5px grey;
+}
