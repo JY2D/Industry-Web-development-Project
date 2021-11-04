@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+This is an industry project where my team and i had 13 weeks to complete a webpage.
+This web application allows the user to be able to see the health risks related to a searched occupation
 
 ## Available Scripts
 
